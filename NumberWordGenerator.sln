@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberWordGenerator", "NumberWordGenerator\NumberWordGenerator.csproj", "{DD8CE934-4449-4499-B16A-F714571A2840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{8408E7F8-DEB0-46EE-8003-1EC475DF5A5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8CE934-4449-4499-B16A-F714571A2840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8CE934-4449-4499-B16A-F714571A2840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8CE934-4449-4499-B16A-F714571A2840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8CE934-4449-4499-B16A-F714571A2840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8408E7F8-DEB0-46EE-8003-1EC475DF5A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8408E7F8-DEB0-46EE-8003-1EC475DF5A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8408E7F8-DEB0-46EE-8003-1EC475DF5A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8408E7F8-DEB0-46EE-8003-1EC475DF5A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45481678-8A45-4D7F-9664-DCA75C1F273F}
+	EndGlobalSection
+EndGlobal
